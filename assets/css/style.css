@@ -38,3 +38,26 @@ nav{
     width: 100%;
     background-color: #17A3B8;
 }
+
+/* Destacame */
+
+#destacados {
+    background-color: #000000;
+}
+
+#destacados div h1{
+    font-size: 52px;
+    font-weight: bold;
+    font-family: "Oswald";
+}
+
+#destacados div hr{
+    background-color: #17A3B8;
+    height: 1px;
+    opacity: 1;
+}
+
+.card img{
+  max-height: 174px;
+  overflow: hidden;
+}
