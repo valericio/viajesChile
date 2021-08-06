@@ -79,3 +79,18 @@ nav{
     height: 1px;
     opacity: 1;
 }
+
+/* Seccion Footer */
+#footer {
+    background-color: #17a3b8;
+}
+  
+#footer h1{
+    font-family: "Oswald";
+}
+
+@media only screen and (max-width: 991px){
+  #quienesSomos{
+    display: none;
+  }
+}
