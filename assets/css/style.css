@@ -2,3 +2,39 @@
 Hoja de estilo para Viajes Chile
 Valericio Carrasco
 */
+
+nav{
+    background-color: #17A3B8;
+}
+
+.navbar-brand{
+    font-family: "Oswald";
+    font-weight: bold;
+}
+
+/* Quienes Somos*/
+
+#quienesSomos {
+    background-color: #000000;
+}
+  
+#quienesSomos div h1{
+    font-size: 52px;
+    font-weight: bold;
+    font-family: "Oswald";
+  }
+
+#quienesSomos div hr{
+    background-color: #17A3B8;
+    height: 1px;
+    opacity: 1;
+}
+  
+#quienesSomos h4{
+    font-family: "Oswald";
+}
+  
+.icon1{
+    width: 100%;
+    background-color: #17A3B8;
+}
