@@ -10,7 +10,7 @@ Ninguno
 
 * [ATOM](https://atom.io/) - Editor de Texto
 
-##  🛠
+## Para visualizar la pagina
 
 * [Viajes Chile en GitHub Pages](https://valericio.github.io/viajesChile/)
 
