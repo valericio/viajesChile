@@ -61,3 +61,21 @@ nav{
   max-height: 174px;
   overflow: hidden;
 }
+
+/* Seccion Contacto */
+
+#contacto {
+    background-color: #000000;
+}
+
+#contacto div h1{
+    font-size: 52px;
+    font-weight: bold;
+    font-family: "Oswald";
+}
+  
+#contacto div hr{
+    background-color: #17A3B8;
+    height: 1px;
+    opacity: 1;
+}
